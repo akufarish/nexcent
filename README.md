@@ -1,5 +1,6 @@
 # Figma source
-Big thanks
+Big thanks to [Muntasir Billah](https://www.figma.com/@itsmuntasirb)
+
 [Figma](https://www.figma.com/community/file/1222060007934600841)
 
 # nexcent
